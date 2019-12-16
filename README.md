@@ -2,13 +2,7 @@
 
 ## Group Members
 
-Vikram Aikat: 714258926
-
-Ryan Armstrong: 730010576
-
-Rohan Arora: 730060952
-
-Sam Nielsen: 730127750
+Vikram Aikat, Ryan Armstrong, Rohan Arora, Sam Nielsen
 
 ## Report
 [Read the report here](comp562pneumonia.pdf)
